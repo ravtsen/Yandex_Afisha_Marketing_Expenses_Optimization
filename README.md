@@ -3,10 +3,12 @@ TripleTen Sprint 9 Project - Business Analytics
 
 This project aimed to help optimize marketing expenses in the analytical department at Yandex.Afisha. 
 
+Project [EDA](https://github.com/ravtsen/Yandex_Afisha_Marketing_Expenses_Optimization/blob/main/EDA.ipynb)
+
 **Below dataset analysed in the project:**<br/>
-Visits - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018<br/>
-Orders - Dump file with all orders for the period<br/>
-Costs - Marketing expenses statistics<br/>
+[Visits](https://github.com/ravtsen/Yandex_Afisha_Marketing_Expenses_Optimization/blob/main/datasets/visits_log_us.csv) - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018<br/>
+[Orders](https://github.com/ravtsen/Yandex_Afisha_Marketing_Expenses_Optimization/blob/main/datasets/orders_log_us.csv) - Dump file with all orders for the period<br/>
+[Costs](https://github.com/ravtsen/Yandex_Afisha_Marketing_Expenses_Optimization/blob/main/datasets/costs_us.csv) - Marketing expenses statistics<br/>
 
 **Project questions:**
 - How people use the product?
